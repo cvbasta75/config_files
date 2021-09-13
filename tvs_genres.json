@@ -1588,7 +1588,15 @@
             "Horroranthologie" : "Science fiction / Fantasy / Horror",
             "Mutantenhorror" : "Science fiction / Fantasy / Horror",
             "Thriller-Trash" : "Detective / Thriller",
-            "Zombiehorrorkomödie" : "Science fiction / Fantasy / Horror"
+            "Zombiehorrorkomödie" : "Science fiction / Fantasy / Horror",
+            "Cartoon series" : "Cartoons / Puppets",
+            "Erotikpsychodrama" : "Adult movie / Drama",
+            "Horrorsexkomödie" : "Science fiction / Fantasy / Horror",
+            "Sci-Fi-Horrorslasher" : "Adult movie / Drama",
+            "Serienkillerdrama" : "Detective / Thriller",
+            "Talks" : "Talkshow / Show",
+            "Teenhorror" : "Science fiction / Fantasy / Horror",
+            "Öko-Thriller" : "Detective / Thriller"
           }
   }
 }
